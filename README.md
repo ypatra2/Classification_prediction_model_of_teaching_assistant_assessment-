@@ -51,6 +51,8 @@ The best classification model would determined after comparison based on multipl
 <img width="268" alt="image" src="https://user-images.githubusercontent.com/86041798/153545780-d24242c0-8ad1-48de-a724-55cd374f7ee4.png">
 
 
+# Decision Tree Diagram
+<img width="721" alt="image" src="https://user-images.githubusercontent.com/86041798/153547003-f5220ae8-1edd-4caf-9fee-234c1267b436.png">
 
 
 
