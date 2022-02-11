@@ -7,13 +7,13 @@ The objective of this project is to determine the best classification model that
 
 The following classification models will be compared:
 
-Markup: *KNN (K Nearest Neighbours)
-SVM (Support Vector Machines)
-Decision Trees
+Markup: * KNN (K Nearest Neighbours)
+* SVM (Support Vector Machines)
+* Decision Trees
 
 The best classification model would determined after comparison based on multiple parameters such as:
-Markup: *Precision
-Recall
-F1-score
+Markup: * Precision
+* Recall
+* F1-score
 
 
