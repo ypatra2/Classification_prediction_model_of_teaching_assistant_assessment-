@@ -27,25 +27,29 @@ The best classification model would determined after comparison based on multipl
 
 ## Accuracy
 1. KNN ~ 39.9%
-2. Linear SVM: ~52.17%
-3. Radial SVM: ~34.78%
-4. Decision Trees: ~80.43%
-
 <img width="283" alt="image" src="https://user-images.githubusercontent.com/86041798/153545586-a5f5fe16-6c7c-446c-b77b-28104a2026c0.png">
+2. Linear SVM: ~52.17%
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/86041798/153545594-d06dfcfd-da1f-4147-b2ab-6052ba9db6ca.png">
+3. Radial SVM: ~34.78%
 <img width="266" alt="image" src="https://user-images.githubusercontent.com/86041798/153545602-265bc513-6e8c-40cd-be14-e8033a8c30a3.png">
+4. Decision Trees: ~80.43%
 <img width="498" alt="image" src="https://user-images.githubusercontent.com/86041798/153545606-5615af13-3847-48ae-9f27-fb36ffe03f09.png">
+
+
+
+
 
 ## Precision,Recall,and F1-score
 
-<img width="295" alt="image" src="https://user-images.githubusercontent.com/86041798/153545760-517772f7-d975-4552-b193-1fe0edd33b4e.png" title = "Decision Tree">
 Decision Tree
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/86041798/153545760-517772f7-d975-4552-b193-1fe0edd33b4e.png" title = "Decision Tree">
+KKN
 <img width="325" alt="image" src="https://user-images.githubusercontent.com/86041798/153545763-d9d7cf8d-2094-405f-a598-f340dbd33430.png" title = "KNN">
-KNN
-<img width="269" alt="image" src="https://user-images.githubusercontent.com/86041798/153545777-07b59937-4f10-4a9b-aff4-8588b09f7fe8.png" title = "Radial SVM">
 Radial SVM
-<img width="268" alt="image" src="https://user-images.githubusercontent.com/86041798/153545780-d24242c0-8ad1-48de-a724-55cd374f7ee4.png" title = "Linear SVM">
+<img width="269" alt="image" src="https://user-images.githubusercontent.com/86041798/153545777-07b59937-4f10-4a9b-aff4-8588b09f7fe8.png" title = "Radial SVM">
 Linear SVM
+<img width="268" alt="image" src="https://user-images.githubusercontent.com/86041798/153545780-d24242c0-8ad1-48de-a724-55cd374f7ee4.png" title = "Linear SVM">
+
 
 
 
