@@ -25,7 +25,7 @@ The best classification model would determined after comparison based on multipl
 
 # Results
 
-# * Accuracy
+## Accuracy
 1. KNN ~ 39.9%
 2. Linear SVM: ~52.17%
 3. Radial SVM: ~34.78%
