@@ -31,10 +31,10 @@ The best classification model would determined after comparison based on multipl
 3. Radial SVM: ~34.78%
 4. Decision Trees: ~80.43%
 
-<img width="283" alt="image" src="https://user-images.githubusercontent.com/86041798/153545586-a5f5fe16-6c7c-446c-b77b-28104a2026c0.png">
-<img width="272" alt="image" src="https://user-images.githubusercontent.com/86041798/153545594-d06dfcfd-da1f-4147-b2ab-6052ba9db6ca.png">
-<img width="266" alt="image" src="https://user-images.githubusercontent.com/86041798/153545602-265bc513-6e8c-40cd-be14-e8033a8c30a3.png">
-<img width="498" alt="image" src="https://user-images.githubusercontent.com/86041798/153545606-5615af13-3847-48ae-9f27-fb36ffe03f09.png">
+1. <img width="283" alt="image" src="https://user-images.githubusercontent.com/86041798/153545586-a5f5fe16-6c7c-446c-b77b-28104a2026c0.png">
+2. <img width="272" alt="image" src="https://user-images.githubusercontent.com/86041798/153545594-d06dfcfd-da1f-4147-b2ab-6052ba9db6ca.png">
+3. <img width="266" alt="image" src="https://user-images.githubusercontent.com/86041798/153545602-265bc513-6e8c-40cd-be14-e8033a8c30a3.png">
+4. <img width="498" alt="image" src="https://user-images.githubusercontent.com/86041798/153545606-5615af13-3847-48ae-9f27-fb36ffe03f09.png">
 
 ## Precision,Recall,and F1-score
 
