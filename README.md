@@ -50,9 +50,28 @@ The best classification model would determined after comparison based on multipl
 4. Linear SVM
 <img width="268" alt="image" src="https://user-images.githubusercontent.com/86041798/153545780-d24242c0-8ad1-48de-a724-55cd374f7ee4.png">
 
+<br/>
+
+We observe that For Decision Tree:
+## Overall Prediction Accuracy:  80.43% (high)
+* Precision of Class 1: 80%
+* Precision of Class 2: 75%
+* Precision of Class 3: 90% 
+## Recall:
+* Recall of Class 1: 89%
+* Recall of Class 2: 80%
+* Recall of Class 3: 69% 
+## F1-score: Balance between Precision and Recall
+* F1-score of Class 1: 84%
+* F1-score of Class 2: 77%
+* F1-score of Class 3: 78%
+
+
+
 
 # Decision Tree Diagram
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/86041798/153547003-f5220ae8-1edd-4caf-9fee-234c1267b436.png">
+
 
 
 
