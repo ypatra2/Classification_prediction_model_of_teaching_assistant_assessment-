@@ -73,6 +73,9 @@ We observe that For Decision Tree:
 <img width="721" alt="image" src="https://user-images.githubusercontent.com/86041798/153547003-f5220ae8-1edd-4caf-9fee-234c1267b436.png">
 
 
+# Conclusion
+
+After our analysis we find that Decision Tree is the best classification model amongst the 3 implemented ones for the given dataset in order to predict the performance of a teaching assistant (TA). This is because after testing the data using this model we obtain a high accuracy score, precision, recall, f1-score as well as the highest sensitivity for the Decision Tree Classification model.
 
 
 
